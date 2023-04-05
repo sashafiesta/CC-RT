@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "com.defthedev.ccrt.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.ccrt.refmap.json",
+  "client": [
+  "MixinFixedWidthFontRenderer"
+  ],
+  "minVersion": "0.8"
+}
